@@ -1,0 +1,3 @@
+[build]
+  base = "client" # Specify the base directory where the build should occur
+  command = "npm run build" # Adjust this command based on your build script
